@@ -12,3 +12,6 @@ Staged
 git commit -m "message"
 ***
 Committed
+***bash
+git push
+***
